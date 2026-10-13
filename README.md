@@ -4,7 +4,7 @@
 - Nama: Dzikrina lailatun najwa [2455201016]
 - Nama: I Putu Bagus Cahyadi Pratama [2455201008]
 - Nama: I Kadek Dika Adipramana [2455201006]
-- Nama: Nehemia Matthias Johnvalendri Handoko [2455201014]
+- Nama: Nehemia Matthias Johnvalendri Handoko [2455201012]
 
 ## Deskripsi Aplikasi
 Aplikasi Catatan merupakan aplikasi Android untuk membuat, menyimpan, dan mencari catatan. Aplikasi ini dibuat menggunakan Kotlin, Jetpack Compose, dan Room Database.
